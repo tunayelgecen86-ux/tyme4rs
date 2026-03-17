@@ -18,7 +18,7 @@ impl Deref for MinorRen {
         &self.parent
     }
 }
-
+edit süper nova kurulum şimdi sonda tablet levha FOCUS tuna yelgecen kök molekul 0 1 -1-0 kök birim birin biri çeker büker büker çeker füzyon süper ELHARB temel kök
 impl DerefMut for MinorRen {
     fn deref_mut(&mut self) -> &mut Self::Target {
         &mut self.parent
